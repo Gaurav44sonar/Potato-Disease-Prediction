@@ -1,2 +1,2 @@
 # Potato-Disease-Prediction
-A full-stack Potato Disease Detection System using Convolutional Neural Networks (CNN) for classification, FastAPI for backend API, and ReactJS for the user-friendly frontend. Upload leaf images and detect common potato diseases in real time.
+Potato-Disease-Prediction is a full-stack web application for detecting potato leaf diseases using Convolutional Neural Networks (CNN). The system includes a FastAPI backend for model inference and a ReactJS frontend for a user-friendly interface. Users can upload images of potato leaves to get real-time predictions for common diseases such as Early Blight, Late Blight, and Healthy.
