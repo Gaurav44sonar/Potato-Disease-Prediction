@@ -44,6 +44,7 @@ Your API is now running at 0.0.0.0:8001
 1.Get inside frontend folder
       <pre>```cd frontend```</pre>
 2.Copy the .env.example as .env and update REACT_APP_API_URL to API URL if needed.
+
 3.Run the frontend
      <pre>```npm run start```</pre>
   
