@@ -21,9 +21,9 @@ Training/
 4. 🧪 Start Jupyter Notebook
    If you don’t have Jupyter installed:
      <pre>```bash pip install notebook```</pre>
-   
+
 5. To run Jupyter in browser:
-    <pre>```bash jupyter notebook```</pre>
+    <pre> ```jupyter notebook``` </pre>
    This will open Jupyter in your default browser.
 
 6. Train the Model
